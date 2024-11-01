@@ -29,6 +29,8 @@ Then you can start the server with:
 ```
 python3 main.py
 ```
+Access flask server with 127.0.0.1:5000/api/update_basket_a or 127.0.0.1:5000/api/unique in browser.
+
 # CSCI3700_HW3
 # CSCI3700_HW3
 # CSCI3700_HW3
