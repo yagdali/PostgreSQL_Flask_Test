@@ -1,6 +1,6 @@
-HW3 Nhu Phan & Yagdali Rivas
 
-Example 4: This project shows how we can connect PostgreSQL with flask and show SELECT results in a HTML table.
+
+This project shows how we can connect PostgreSQL with flask and show SELECT results in a HTML table.
 
 ## Quick Start
 ### Local Test Setup
@@ -31,6 +31,3 @@ python3 main.py
 ```
 Access flask server with 127.0.0.1:5000/api/update_basket_a or 127.0.0.1:5000/api/unique in browser.
 
-# CSCI3700_HW3
-# CSCI3700_HW3
-# CSCI3700_HW3
